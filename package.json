@@ -1,0 +1,19 @@
+{
+  "name": "to-do-list",
+  "version": "1.0.0",
+  "description": "Task Management To-do List",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Task",
+    "Management",
+    "Task",
+    "Management",
+    "To-do",
+    "List"
+  ],
+  "author": "Shani Kumar Gupta",
+  "license": "ISC"
+}
